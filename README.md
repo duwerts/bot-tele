@@ -1,2 +1,2 @@
 # bot-tele
- bot trlrgram
+ bot telrgram
